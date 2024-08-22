@@ -4,7 +4,7 @@ owner_name: Aadit Mathur
 github_username: aaguy-hue
 # github_repo: "CSA-website"
 repository: aaguy-hue/CSA-website.git
-baseurl: "/student_2025"
+baseurl: "/CSA-website"
 future: true
 remote_theme: jekyll/minima
 minima:
