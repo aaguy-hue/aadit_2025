@@ -1,10 +1,11 @@
 title: Nighthawk Pages 
-description: "2024 to 2025 school year."
+description: "My portfolio for the 2024 to 2025 school year."
 owner_name: Aadit Mathur
 github_username: aaguy-hue
 github_repo: "CSA-website"
 baseurl: "/CSA-website"
 future: true
+# show_downloads: true
 remote_theme: jekyll/minima
 minima:
   skin: dark
@@ -12,6 +13,7 @@ minima:
     - { platform: github, user_url: "https://github.com/aaguy-hue"}
     # - { platform: x, user_url: "https://x.com/NighthawkCoding/" }
     - { platform: youtube, user_url: "https://www.youtube.com/@amath3307" } 
+# remote_theme: pages-themes/architect@v0.2.0
 # remote_theme: pages-themes/midnight@v0.2.0
 # remote_theme: pages-themes/cayman@v0.2.0
 # remote_theme: pages-themes/dinky@v0.2.0

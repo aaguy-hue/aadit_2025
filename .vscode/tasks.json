@@ -1,0 +1,43 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "make",
+            "type": "shell",
+            "command": "wsl",
+            "args": [
+                "bash",
+                "-c",
+                "\"eval 'source ./env/bin/activate && make'\""
+            ]
+        },
+        {
+            "label": "make stop",
+            "type": "shell",
+            "command": "wsl",
+            "args": [
+                "bash",
+                "-c",
+                "\"make stop\""
+            ]
+        },
+        {
+            "label": "Run Python File",
+            "type": "shell",
+            "command": "wsl",
+            "args": [
+                "bash",
+                "-c",
+                "\"source ./env/bin/activate; python ${input:fileinp}\""
+            ]
+        },
+    ],
+    "inputs": [
+        {
+            "id": "fileinp",
+            "description": "File: ",
+            "default": "",
+            "type": "promptString"
+        },
+    ]
+}

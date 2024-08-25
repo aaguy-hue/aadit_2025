@@ -5,4 +5,7 @@ description: Home Page
 hide: true
 ---
 
-My journey starts here.
+# Hi
+Why hello there, my name is Aadit Mathur, and I am a high school student passionate about computer science.
+
+[Github](https://github.com/aaguy-hue)
