@@ -7,6 +7,7 @@ _posts/**/*_GithubIssue.md
 _posts/**/*_GithubPR.md
 _posts/**/*-by_author.json
 env/
+.venv/
 nohup.out
 Gemfile.lock
 node_modules

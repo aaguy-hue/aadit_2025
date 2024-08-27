@@ -1,6 +1,6 @@
 # Configuration, override port with usage: make PORT=4200
 PORT ?= 4100
-REPO_NAME ?= CSA-website
+REPO_NAME ?= aadit_2025
 LOG_FILE = /tmp/jekyll$(PORT).log
 
 SHELL = /bin/bash -c

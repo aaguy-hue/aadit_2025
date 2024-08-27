@@ -4,4 +4,5 @@ title: About
 permalink: /about/
 ---
 
-Creator of Student 2025
+# About Me
+Hello there, my name is Aadit Mathur. Yes indeed, it is me.
