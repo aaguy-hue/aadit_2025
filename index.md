@@ -16,7 +16,6 @@ I greatly appreciate the fact that you spent time reading this webpage.
 
 <button id="add-aadit">Add a picture of me!!!</button>
 <div class="aadit-images">
-    <img src="/images/aadit.jpg">
 </div>
 
 <script>
