@@ -14,4 +14,17 @@ Here is the link to my [Github](https://github.com/aaguy-hue).
 # Bye
 I greatly appreciate the fact that you spent time reading this webpage.
 
-![A picture of me](/images/aadit.jpg)
+<button id="add-aadit">Add a picture of me!!!</button>
+<div class="aadit-images">
+    <img src="/images/aadit.jpg">
+</div>
+
+<script>
+    const btn = document.getElementById("add-aadit")
+    btn.addEventListener("click", function() {
+        const newImg = document.createElement("img");
+        newImg.src = "/aadit_2025/images/aadit.jpg";
+        newImg.alt = "Aadit";
+        document.querySelector(".aadit-images").appendChild(newImg);
+    });
+</script>
