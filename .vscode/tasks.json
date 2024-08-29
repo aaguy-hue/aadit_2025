@@ -8,7 +8,7 @@
             "args": [
                 "bash",
                 "-c",
-                "\"eval 'source ./env/bin/activate && make'\""
+                "\"eval 'source .venv/Scripts/activate && make'\""
             ]
         },
         {
