@@ -18,3 +18,13 @@ I've been interested in computer science for a long time, but for the sake of br
 - 🎮 Created a python library for game development
 - 🗣️ Gave a presentation at the miRcore High School Research Conference
 - 🏫 Studied at Carnegie Mellon University's Pre-College Program in Computational Biology
+
+
+<script src="https://utteranc.es/client.js"
+        repo="aaguy-hue/aadit_2025"
+        issue-term="pathname"
+        label="blog_comment"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
