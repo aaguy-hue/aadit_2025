@@ -100,6 +100,11 @@ Here is the link to my [Github](https://github.com/aaguy-hue).
 # Bye
 I greatly appreciate the fact that you spent time reading this webpage.
 
+
+<button id="add-aadit">Add a picture of me!!!</button>
+<div class="aadit-images">
+</div>
+
 <script src="https://utteranc.es/client.js"
         repo="aaguy-hue/aadit_2025"
         issue-term="pathname"
@@ -160,11 +165,6 @@ I greatly appreciate the fact that you spent time reading this webpage.
 
     renderProjects();
 </script>
-
-
-<button id="add-aadit">Add a picture of me!!!</button>
-<div class="aadit-images">
-</div>
 
 <script>
 const btn = document.getElementById("add-aadit");
