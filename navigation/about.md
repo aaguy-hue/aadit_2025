@@ -6,7 +6,12 @@ permalink: /about/
 
 Hello there, my name is Aadit Mathur. Yes indeed, it is me. The one and only me.
 
+![image](/aadit_2025/images/family_holi_photo.jpg)
+<p style="color: gray;">
+A picture of me and my family.
+</p>
 
+<br />
 
 ## CS-related activities
 I've been interested in computer science for a long time, but for the sake of brevity, I will restrict this section to major things in high school.
