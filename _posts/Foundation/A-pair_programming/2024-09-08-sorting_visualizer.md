@@ -1,8 +1,9 @@
 ---
-layout: base
+layout: post
 title: Sorting Algorithm Visualizer
 description: Visualizes sorting algorithms
-hide: false
+type: issues
+comments: true
 ---
 
 <style>
@@ -55,8 +56,6 @@ hide: false
     }
 </style>
 
-<h1>Sorting Algorithm Visualizer</h1>
-
 <div id="inputSection">
     <textarea id="numbers" placeholder="Enter numbers separated by commas (e.g., 5, 2, 8, 12, 1, 6)"></textarea>
     <br>
@@ -75,6 +74,15 @@ hide: false
     <button onclick="resetVisualization()">Reset</button>
     <div id="statusMessage">Array is sorted!</div>
 </div>
+
+<script src="https://utteranc.es/client.js"
+        repo="aaguy-hue/aadit_2025"
+        issue-term="pathname"
+        label="blog_comment"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
 
 <script>
     let numbers = [];
