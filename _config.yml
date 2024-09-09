@@ -6,7 +6,8 @@ github_repo: "aadit_2025"
 baseurl: "/aadit_2025"
 future: true
 # show_downloads: true
-theme: minima
+# theme: minima
+remote_theme: jekyll/minima
 minima:
   skin: dark
   social_links:
