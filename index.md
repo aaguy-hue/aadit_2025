@@ -90,12 +90,10 @@ Why hello there, my name is Aadit Mathur, and I am a high school student passion
 Here is the link to my [Github](https://github.com/aaguy-hue).
 
 <br />
-<br />
 
 ## ✨ Some Projects ✨
 <div class="grid-container" id="projectGrid"></div>
 
-<br />
 <br />
 <br />
 
