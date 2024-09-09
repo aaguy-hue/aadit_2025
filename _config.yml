@@ -1,4 +1,4 @@
-title: The Greatest and Most Glorious Aadit Mathur
+title: Emperor of A101
 description: "My portfolio for the 2024 to 2025 school year."
 owner_name: Aadit Mathur
 github_username: aaguy-hue
@@ -6,7 +6,7 @@ github_repo: "aadit_2025"
 baseurl: "/aadit_2025"
 future: true
 # show_downloads: true
-remote_theme: jekyll/minima
+theme: minima
 minima:
   skin: dark
   social_links:
@@ -26,3 +26,5 @@ header_pages:
   - navigation/search.md
   - navigation/about.md
   - README4YML.md
+exclude:
+  - env

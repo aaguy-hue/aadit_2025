@@ -171,7 +171,7 @@ const maxImages = 10;
 btn.addEventListener("click", function() {
     if (imageCount < maxImages) {
         const newImg = document.createElement("img");
-        newImg.src = "/aadit_2025/images/aadit.jpg";
+        newImg.src = "{{ '/images/aadit.jpg' | relative_url }}";
         newImg.alt = "Picture of Aadit";
         newImg.classList.add("aadit-image");
         imageContainer.appendChild(newImg);
