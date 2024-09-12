@@ -27,7 +27,25 @@ hide: true
         font-size: 16px;
         cursor: pointer;
         border-radius: 5px;
-        transition: background-color 0.3s ease;
+        background-color: #4a5568;
+        border: none;
+        color: white;
+        outline: none;
+        transition: transform 0.1s ease-in-out;
+    }
+    #add-aadit:disabled {
+        cursor: not-allowed;
+        background-color: #a0aec0;
+        transform: none;
+        transition: none;
+    }
+    #add-aadit:active:not(:disabled) {
+        transform: scale(1.1);
+    }
+    @keyframes clickEffect {
+        0% { transform: scale(1); }
+        50% { transform: scale(1.1); }
+        100% { transform: scale(1); }
     }
     body {
         font-family: Arial, sans-serif;
