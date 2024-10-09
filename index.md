@@ -115,6 +115,9 @@ Here is the link to my [Github](https://github.com/aaguy-hue).
 <br />
 <br />
 
+## Unit Notes
+<a href="/aadit_2025/csa/notes/home/">Notes Homepage</a>
+
 # Bye
 I greatly appreciate the fact that you spent time reading this webpage.
 
