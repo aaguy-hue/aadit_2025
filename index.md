@@ -105,7 +105,7 @@ hide: true
         display: inline-flex;
         align-items: center;
         padding: 0.75rem 1.5rem;
-        background: linear-gradient(135deg, #6366f1, #4f46e5);
+        background: linear-gradient(135deg, #c92228, #5f22c9);
         color: white;
         text-decoration: none;
         border-radius: 8px;
