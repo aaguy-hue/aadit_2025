@@ -100,6 +100,29 @@ hide: true
         height: 20px;
         margin-right: 5px;
     }
+
+    .sprint-button {
+        display: inline-flex;
+        align-items: center;
+        padding: 0.75rem 1.5rem;
+        background: linear-gradient(135deg, #6366f1, #4f46e5);
+        color: white;
+        text-decoration: none;
+        border-radius: 8px;
+        font-weight: 600;
+        border: none;
+        transition: all 0.3s ease;
+        box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+    }
+
+    .sprint-button:hover {
+        transform: translateY(-2px);
+        box-shadow: 0 6px 8px -1px rgba(0, 0, 0, 0.2);
+    }
+
+    .sprint-button:active {
+        transform: translateY(0);
+    }
 </style>
 
 # Hi
@@ -110,8 +133,8 @@ Here is the link to my [Github](https://github.com/aaguy-hue).
 <br />
 
 ## My blogs 🗣️
-<a href="/csa/sprint1/">Sprint 1</a>
-<a href="/aadit_2025/csa/notes/home/">Sprint 2 ― Notes Homepage</a>
+<a href="/csa/sprint1/"><button class="sprint-button">Sprint 1</button></a>
+<a href="/aadit_2025/csa/notes/home/"><button class="sprint-button">Sprint 2 ― Notes Homepage</button></a>
 
 ## ✨ Some Projects ✨
 <div class="grid-container" id="projectGrid"></div>
