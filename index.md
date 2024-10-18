@@ -134,7 +134,7 @@ Here is the link to my [Github](https://github.com/aaguy-hue).
 
 ## My blogs 🗣️
 <a href="{{site.baseurl}}/csa/sprint1/"><button class="sprint-button">Sprint 1</button></a>
-<a href="{{site.baseurl}}/aadit_2025/csa/notes/home/"><button class="sprint-button">Sprint 2 ― Notes Homepage</button></a>
+<a href="{{site.baseurl}}/csa/notes/home/"><button class="sprint-button">Sprint 2 ― Notes Homepage</button></a>
 
 ## ✨ Some Projects ✨
 <div class="grid-container" id="projectGrid"></div>
