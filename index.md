@@ -136,6 +136,7 @@ Here is the link to my [Github](https://github.com/aaguy-hue).
 <a href="{{site.baseurl}}/csa/sprint1/"><button class="sprint-button">Sprint 1</button></a>
 <a href="{{site.baseurl}}/csa/notes/home/"><button class="sprint-button">Sprint 2 ― Notes Homepage</button></a>
 <a href="{{site.baseurl}}/csa/mcq/2014"><button class="sprint-button">2014 MCQ Blog</button></a>
+<a href="{{site.baseurl}}/blogs/student-panel"><button class="sprint-button">GICS Student Panel Blog</button></a>
 
 ## ✨ Some Projects ✨
 <div class="grid-container" id="projectGrid"></div>
