@@ -6,7 +6,7 @@ permalink: /about/
 
 Hello there, my name is Aadit Mathur. Yes indeed, it is me. The one and only me.
 
-![image](/aadit_2025/images/family_holi_photo.jpg)
+![image]({{site.baseurl}}/images/family_holi_photo.jpg)
 <p style="color: gray;">
 A picture of me and my family.
 </p>

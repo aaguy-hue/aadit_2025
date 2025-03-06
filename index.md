@@ -143,6 +143,8 @@ Here is the link to my [Github](https://github.com/aaguy-hue).
 <br />
 <a href="{{site.baseurl}}/blogs/pbl-reflection"><button class="sprint-button">PBL Reflection Blog</button></a>
 <br />
+<a href="{{site.baseurl}}/blogs/docse/trimester-2-final"><button class="sprint-button">Trimester 2 - Last PBL Reflection</button></a>
+<br />
 
 ## ✨ Some Projects ✨
 <div class="grid-container" id="projectGrid"></div>
