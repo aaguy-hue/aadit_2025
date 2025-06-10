@@ -1,5 +1,6 @@
 ---
 title: CSA Reflection
+permalink: /blogs/finalreview
 comments: true
 layout: post
 description: This is a deeper review on data types, wrapper classes and classes specific in preparation for using Data Structures.
