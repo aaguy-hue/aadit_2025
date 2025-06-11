@@ -145,7 +145,7 @@ Here is the link to my [Github](https://github.com/aaguy-hue).
 <br />
 <a href="{{site.baseurl}}/blogs/docse/trimester-2-final"><button class="sprint-button">Trimester 2 - Last PBL Reflection</button></a>
 <br />
-<a href="{{site.baseurl}}/blogs/finalreview"><button class="sprint-button">Trimester 2 - Last PBL Reflection</button></a>
+<a href="{{site.baseurl}}/blogs/finalreview"><button class="sprint-button">Final Review Blog</button></a>
 <br />
 
 ## ✨ Some Projects ✨
